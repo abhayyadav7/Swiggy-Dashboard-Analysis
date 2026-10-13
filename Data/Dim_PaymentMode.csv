@@ -1,0 +1,7 @@
+Payment_Mode_ID,Payment_Mode_Name
+1,UPI
+2,Credit Card
+3,Debit Card
+4,Cash
+5,Wallet
+6,Net Banking

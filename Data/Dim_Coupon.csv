@@ -1,0 +1,6 @@
+Coupon_ID,Coupon_Name,Discount_Pct,Max_Discount,Campaign,Applicable_Service,Expiry_Date
+1,WELCOME50,50,100,New User,All,2026-12-31
+2,BOLT10,10,50,Speed,Bolt,2026-12-31
+3,TOINGSAVE,20,40,Budget,Toing,2026-12-31
+4,FESTIVE30,30,200,Festival,All,2026-12-31
+5,SWIGGYONE,15,150,Premium,Main App,2026-12-31
