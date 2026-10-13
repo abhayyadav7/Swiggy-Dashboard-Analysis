@@ -53,7 +53,7 @@ The project uses 14 CSV source files:
 The source data covers orders from January 2024 through June 2026.
 
 ## Tools Used
-- Microsoft Excel 2021 for Windows
+- Microsoft Excel 
 - Power Query
 - Power Pivot
 - PivotTables and charts
